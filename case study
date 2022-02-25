@@ -1,9 +1,1 @@
-##Auto intensity control of Lights
-
-# introduction
-
-In this projects I want to demonostrate how the street lights controled their intensity with the help of Ldr which is a sensor and RTC which is a Real time clock aording to the time and environemental changes.
-
-
-
 
