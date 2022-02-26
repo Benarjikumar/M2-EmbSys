@@ -13,23 +13,23 @@ High level Requirements
 
 
     
-          # Low Level Requirements for HL1
+           # Low Level Requirements for HL1
  Llr1:	  It shall have the light sensor and calculate the intensity. 
  Llr2	 :     It connects to adc.
 	  
-          # LOW Level Requirements for HL2.
+           # LOW Level Requirements for HL2.
  Llr1	 :    It shall clock and it calculate time
 Llr2 : 	It connected to input pin
 
-            # Low Level Requirements for HL3
+             # Low Level Requirements for HL3
    Llr1:	     It have lcd and it display time	
    Llr2	:     It connect  to input
 
-          # Low Level Requirements for HL4	
+           # Low Level Requirements for HL4	
           Llr1 :	It should have led relays	
             Llr2 :     It connect to port.
 
-        # Components Required
+         # Components Required
   Power supply :  it gives the  power
 LDR:  Light dependent resistor is used to calculate the intensity of light
 LCD:   Lcd  is  used   to  display  the  time which read from ic RTC:  Real time clock is used for to calculate the current time.
