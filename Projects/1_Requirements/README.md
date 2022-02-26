@@ -13,11 +13,11 @@ High level Requirements
 
 
     
-          #  Low Level Requirements for HL1
+          # Low Level Requirements for HL1
  Llr1:	  It shall have the light sensor and calculate the intensity. 
  Llr2	 :     It connects to adc.
 	  
-          # Low Level Requirements for HL2.
+          # LOW Level Requirements for HL2.
  Llr1	 :    It shall clock and it calculate time
 Llr2 : 	It connected to input pin
 
