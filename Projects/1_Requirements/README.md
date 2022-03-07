@@ -31,16 +31,16 @@ In this project i want to demonostrate Temparature monetoring system.In this pro
  
 
 
-# 4w’s and 1H?
-Where?
+## 4w’s and 1H?
+# Where?
 Mostly used in Vehicles and Rooms in cool countries like Europe .
-What?
+# What?
 It is a Temparature Monitoring system.
-When?
+# When?
 it will be used when we want to save the power in peak times.
-WHY?
+# WHY?
 WE will use this for increasing Temparature.
-How?
+# How?
 By increasing or Decereasing the Temparature using Push buttons.
 
 
@@ -48,11 +48,11 @@ By increasing or Decereasing the Temparature using Push buttons.
 # strengths?
 It is  Easy to change Temparature
 Low cost .
-weeknees?
+# weeknees?
 Its only applicable for those countries which are having low temperature.
-oppertunites?
+# oppertunites?
 We will use this as heater By increaasing  Temparature and as Ac by decreasing Temparature.
-Threats?
+# Threats?
 Not Suitable Normal placess.
 
 
