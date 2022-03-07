@@ -46,15 +46,15 @@ By using this  we can save power.
 WE  use  this  as  a  controller  it  control  the  intensity  of light.
 
 
-# Swoot Analysis?
-strengths?
+## Swoot Analysis?
+# strengths?
 we can control 24/7.
 it detects the intensity.
-weeknees?
+# Weeknees?
 in some cases detects false intensity.
 oppertunites?
 we can save more more power.
-Threats?
+# Threats?
 It may damages the microcontroller sometimes.
 ldr may caluclates some false intensity....
 
