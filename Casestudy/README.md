@@ -56,7 +56,7 @@ oppertunites?
 we can save more more power.
 Threats?
 It may damages the microcontroller sometimes.
-ldr may caluclates some false intensity..
+ldr may caluclates some false intensity....
 
 
 
