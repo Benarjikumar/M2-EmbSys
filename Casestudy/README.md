@@ -33,15 +33,16 @@ Llr1	      It connect  to input
 
 
 # 4w’s and 1H?
-Where?
+
+* Where?
 It should used  in traffics  and in highway roads, etc.. to control the intensity .
 What?
 It  should controls  controls the light.
-When?
+* When?
 it will be used when we want to save the power in peak times.
 WHY?
 By using this  we can save power.
-How?
+* How?
 WE  use  this  as  a  controller  it  control  the  intensity  of light.
 
 
