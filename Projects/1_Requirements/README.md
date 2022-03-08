@@ -78,8 +78,6 @@ ldr may caluclates some false intensity.
 
 
 
-
-
 =======
 
 # Features
