@@ -10,6 +10,6 @@
 #define LED_ON PORTD|=(1<<PD0)
 #define LED_OFF PORTD &=~(1<<PD0)
 
-void SEAT_CHECKING();
+void Seat_check();
 
 #endif 
