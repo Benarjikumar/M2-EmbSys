@@ -55,6 +55,9 @@ We will use this as heater By increaasing  Temparature and as Ac by decreasing T
 # Threats?
 Not Suitable Normal placess.
 
+# Working
+When The Driver is Sit in the Vehicle ,The Sensor senses the driver and There is a temparature Request at which on lcd will display for the driver ,According to which The temparature will be Adjusted By The Driver  And According to which the heat will be generated.
+
 
 
 
