@@ -71,6 +71,16 @@ ldr may caluclates some false intensity.
 * It is easly controlled by Itself easily according to the time in peak hours .
 
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+=======
+
+>>>>>>> d1fb58325fd4702389add337930838a8280ee814
 # Features
 * It Will help Us mostly to save the power.
 * low cost.
