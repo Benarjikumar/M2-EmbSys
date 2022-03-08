@@ -65,6 +65,7 @@ we can save more more power.
 It may damages the microcontroller sometimes.
 ldr may caluclates some false intensity.
 
+<<<<<<< HEAD
 
 # Features
 * It Will help Us mostly to save the power.
@@ -79,6 +80,13 @@ ldr may caluclates some false intensity.
 
 
 
+=======
+
+# Features
+* It Will help Us mostly to save the power.
+* low cost.
+* It is easly controlled by Itself easily according to the time in peak hours .
+>>>>>>> f15eb4a356412ebfb5e43cb55aa954656703ae7d
 
 
 
