@@ -4,9 +4,9 @@
 #include <avr/io.h>
 #include<util/delay.h>
 
-#define SEAT_CHECK !(PIND &(1<<PD1))
-#define HEATER_ON (PIND &(1<<PD2))
-#define HEATER_OFF PORTD&=~(1<<PD2)
+#define Seat_check !(PIND &(1<<PD1))
+#define Heater_on (PIND &(1<<PD2))
+#define Heater_off PORTD&=~(1<<PD2)
 #define LED_ON PORTD|=(1<<PD0)
 #define LED_OFF PORTD &=~(1<<PD0)
 
