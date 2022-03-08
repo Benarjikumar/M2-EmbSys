@@ -26,6 +26,8 @@ In this project i want to demonostrate Temparature monetoring system.In this pro
 * Thermomodule                       
 * LED                           
 * MICROCONTROLLER
+* Potentiometer
+
 
 
  
